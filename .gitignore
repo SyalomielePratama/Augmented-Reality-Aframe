@@ -1,4 +1,5 @@
-.zip
-.md
+*.zip
+*.md
 Marker.jpeg
 /pattern
+.gitignore
