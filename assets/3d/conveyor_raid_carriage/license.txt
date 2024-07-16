@@ -1,0 +1,11 @@
+Model Information:
+* title:	Conveyor (raid carriage)
+* source:	https://sketchfab.com/3d-models/conveyor-raid-carriage-e5c55b0682ff49649e28ec775afcd60e
+* author:	kingillager (https://sketchfab.com/kingillager)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Conveyor (raid carriage)" (https://sketchfab.com/3d-models/conveyor-raid-carriage-e5c55b0682ff49649e28ec775afcd60e) by kingillager (https://sketchfab.com/kingillager) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
