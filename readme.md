@@ -8,7 +8,7 @@ Project ini dibuat oleh Syalomiele Pratama Agustinus Susanto [@syalomielepratama
    - Pastikan untuk mendownload file `Hiro-Marker.png` yang tersedia di repository ini.
 
 2. **Buka Aplikasi AR**
-   - Buka browser pada perangkat Anda dan buka link [syalomielepratama.github.io/UAS-VR-AR](https://syalomielepratama.github.io/Augmented-Reality-Aframe).
+   - Buka browser pada perangkat Anda dan buka link [syalomielepratama.github.io/Augmented-Reality-Aframe](https://syalomielepratama.github.io/Augmented-Reality-Aframe).
 
 3. **Scan Marker**
    - Gunakan aplikasi AR pada perangkat Anda untuk menscan marker (gambar `Hiro-Marker.png`) yang telah Anda unduh. Pastikan perangkat terhubung dengan kamera untuk mengaktifkan AR.
